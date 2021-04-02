@@ -6,7 +6,7 @@ public class biodatadiri{
 
  String nim, nama, klas, jurusan;
 
- ystem.out.print("nim : ");
+ System.out.print("nim : ");
  nim = input.nextLine();
 
  System.out.print("nama : ");
@@ -17,10 +17,12 @@ public class biodatadiri{
 
  System.out.print("jurusan : ");
  jurusan = input.nextLine();
-
+	System.out.println("===================================");
+	System.out.println("=INI ADALAH OUTPUT DARI INPUTAN !!=");
+	System.out.println("===================================");	
 	System.out.println(" Nim anda adalah 	:"+nim);
 	System.out.println(" Nama anda adalah	:"+nama);
 	System.out.println(" Klas anda adalah	:"+klas);
 	System.out.println(" Jurusan anda adalah :"+jurusan);
-
+   }
 }
