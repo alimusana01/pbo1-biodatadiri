@@ -19,6 +19,7 @@ public class biodatadiri{
  jurusan = input.nextLine();
 	System.out.println("===================================");
 	System.out.println("=INI ADALAH OUTPUT DARI INPUTAN !!=");
+	System.out.println("=   PROGRAM BIODATA SEDERHANA   !!=");
 	System.out.println("===================================");	
 	System.out.println(" Nim anda adalah 	:"+nim);
 	System.out.println(" Nama anda adalah	:"+nama);
